@@ -1,0 +1,12 @@
+{
+  "name": "Financeiro Pro",
+  "short_name": "Financeiro",
+  "description": "App financeiro pessoal offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#030304",
+  "theme_color": "#030304",
+  "orientation": "portrait",
+  "icons": []
+}
