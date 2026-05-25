@@ -1,0 +1,24 @@
+VALIDAÇÃO DO PACOTE
+
+STATUS: OK
+
+Arquivos conferidos:
+OK - .github/workflows/build-apk.yml
+OK - www/index.html
+OK - www/manifest.json
+OK - www/sw.js
+OK - package.json
+OK - capacitor.config.json
+OK - README.md
+
+Capacitor:
+appId: com.garciacontabilidade.financeiropro
+appName: Financeiro Pro
+webDir: www
+
+HTML:
+tamanho_kb: 951.8
+sha256: 95c180c8b0b31ef4b5c0732c9dff294a4e9820df379f9dd8914f4c6c6993c79f
+
+Resultado esperado:
+Actions > Build Android APK > Artifacts > financeiro-pro-apk > app-debug.apk
